@@ -43,7 +43,7 @@ The project follows the **CRISP-DM (Cross-Industry Standard Process for Data Min
 ```
 /data
   /raw           # Sample raw sales CSV
-  /processed     # (Optional) Processed outputs
+  /processed     
 /scripts
   glue_etl_job_script.py
   lambda_trigger_script.py
